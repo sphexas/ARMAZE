@@ -7,6 +7,7 @@ Implementation Steps:
 Unity and Vuforia Integration: To bring this project to life, we've harnessed the power of Unity and the Vuforia plugin for AR model scanning and generation.
 
 Setting Up Vuforia: To get started, you'll need to create a developer account on Vuforia. Afterward, add an image of the maze to the image target database. Don't forget to download Unity 3D's database and the Vuforia plugin for Unity.
+<img width="374" alt="image" src="https://github.com/sphexas/ARMAZE/assets/37029200/8cf8f131-980b-480e-95aa-36a9917b2230">
 
 Adding Image Targets: Add your newly created image target to the developer library. This step is crucial for seamless utilization in the subsequent development process.
 
