@@ -1,4 +1,4 @@
-AR Maze Program
+# AR Maze Program
 
 Welcome to the AR Maze Program! This project explores the creation of an Augmented Reality (AR) experience centered around a virtual maze. In addition to building the AR maze using Unity, we've also utilized a 3D project for testing and verification purposes.
 
