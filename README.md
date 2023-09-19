@@ -1,5 +1,5 @@
-Read Me
-# In this project, we creating an AR Maze programe. and we're using Unity to build that. Based on this AR Maze, we trying to use camera to scan the image target. Next to let camera show out the virtual target. Meanwhile, to make an AR Maze, we also need a plugin tool called Vuforia. This also build in the Unity platform.
+# Read Me
+In this project, we creating an AR Maze programe. and we're using Unity to build that. Based on this AR Maze, we trying to use camera to scan the image target. Next to let camera show out the virtual target. Meanwhile, to make an AR Maze, we also need a plugin tool called Vuforia. This also build in the Unity platform.
 
 The game is an interactive ball maze that can be built to Android or IOS. It utilizes the front facing camera to track an image target. 
 Also, we need a maze picture to be an image target.
