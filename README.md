@@ -11,6 +11,7 @@ Create a developer account on Vuforia and add the above picture to your image ta
 Import Vuforia plug-ins and image databases into Unity.
 
 In the Vuforia folder, create a prefab and drag it into the hierarchy. Then find the imageTarget prefab, import our image target and drag it into the hierarchy.
+<img width="762" alt="image" src="https://github.com/sphexas/ARMAZE/assets/37029200/97034468-1e26-467b-bb27-f45a1aca8da1">
 
 In the scene, move the imageTarget prefab a few units away from the camera. Drag it onto the ARCamera prefab (make it a child).
 Here you need to pay attention to the proportion, the proportion of the cube on the picture target and the proportion on the camera.
